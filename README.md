@@ -1,7 +1,7 @@
 # Autonomous Nerf Turret
 
 ## Overview
-Work-in-progress mechatronics project involving a 3D-printed turret chassis, Raspberry Pi-based control system, motorized pan/tilt actuation, and YOLO/OpenCV target tracking.
+Work-in-progress personal mechatronics project involving a 3D-printed turret chassis, Raspberry Pi-based control system, motorized pan/tilt actuation, and YOLO/OpenCV target tracking.
 
 ## Project Goals
 - Design and 3D print a stable turret chassis
