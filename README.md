@@ -19,7 +19,7 @@ Work-in-progress mechatronics project involving a 3D-printed turret chassis, Ras
 - Soldering and wiring
 - 3D printing
 
-## CAD Render
+## Chassis Assembly CAD Render
 ![Chassis assembly render](renders/chassis-assembly.png)
 
 ## Current Status
